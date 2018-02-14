@@ -1,0 +1,33 @@
+---
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+
+---
+### Energy advisor - providing insights for energy efficiency opportunities in buildings
+*Kiril Raytchev, 14<sup>th</sup> Feb 2018*
+
+**Executive Summary** 
+
+
+---
+### Data sources and collection
+#### (1)
+
+
+---
+### Data importance
+#### (1)
+
+
+---
+### Data preparation and transformation
+#### (1)
+
+
+---
+### First steps
